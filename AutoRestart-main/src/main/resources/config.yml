@@ -1,0 +1,17 @@
+schedule: 14400
+
+announcements:
+ - 1800
+ - 900
+ - 60
+ - 30
+ - 5
+ - 3
+ - 2
+ - 1
+
+messages:
+  prefix: "§l§bРестарт §r§7×§f"
+  announcement: "{prefix} До перезагрузки сервера §e{time}"
+  restart: "§eСервер был перезагружен.\n§rПопробуйте подключиться через пару минут."
+  restart-in: "{prefix} Сервер будет перезагружен через: §e{time}"

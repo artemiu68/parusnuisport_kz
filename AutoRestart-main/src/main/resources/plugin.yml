@@ -1,0 +1,11 @@
+name: AutoRestart
+version: "1.0"
+api: ["1.0.8"]
+author: MEFRREEX
+main: clubdev.autorestart.AutoRestart
+
+permission:
+  autorestart.command.restart:
+    default: op
+  autorestart.command.restartin:
+    default: op
